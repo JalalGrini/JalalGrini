@@ -64,12 +64,12 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=JalalGrini&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JalalGrini&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=JalalGrini&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JalalGrini&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ### 🔥 Streak Stats
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=JalalGrini&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JalalGrini&theme=dark" alt="GitHub Streak" />
 </p>
