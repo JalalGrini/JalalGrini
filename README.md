@@ -61,12 +61,19 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JalalGrini&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JalalGrini&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JalalGrini&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JalalGrini&show_icons=true&theme=dark" alt="Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalalGrini&layout=compact&theme=dark" alt="Languages" />
+</p>
+
+### 🔥 Contribution Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=JalalGrini&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JalalGrini&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JalalGrini&color=0077B5&style=for-the-badge" alt="Profile Views" />
+</p>
