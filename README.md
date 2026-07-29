@@ -71,5 +71,5 @@
 
 ### 🔥 Streak Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JalalGrini&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JalalGrini&theme=dark&v=2" alt="GitHub Streak" />
 </p>
