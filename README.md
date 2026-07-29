@@ -61,19 +61,15 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JalalGrini&show_icons=true&theme=dark" alt="Stats" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=JalalGrini&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalalGrini&layout=compact&theme=dark" alt="Languages" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=JalalGrini&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-### 🔥 Contribution Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=JalalGrini&theme=dark)
-
----
-
+### 🔥 Streak Stats
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JalalGrini&color=0077B5&style=for-the-badge" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=JalalGrini&theme=dark" alt="GitHub Streak" />
 </p>
